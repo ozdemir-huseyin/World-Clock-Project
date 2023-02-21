@@ -1,0 +1,30 @@
+*{
+margin:0;
+}
+body{
+ background-image: url("./Img/clock_preview.jpg"); 
+ background-size:100%;
+position:fixed;
+background-position-y:25%;
+}
+.time-genaraly{
+margin: 160% 230% ;
+}
+.time-zone{
+  color:bisque;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  width: 200px;
+  font-size: 20px;
+  background-color:cornflowerblue;
+  border-radius: 20px;
+}
+.time{
+  text-align: center;
+color: cornflowerblue;
+margin-top: 20px;
+margin-left: 40px;
+font-weight: bold;
+font-size: 30px; 
+}

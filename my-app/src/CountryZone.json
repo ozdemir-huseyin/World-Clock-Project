@@ -1,0 +1,14 @@
+ [
+
+  {"capital":"Turkey ","zone":"Turkey","id":1},
+    {"capital":"Zurich","zone":"Europe/Zurich" ,"id":2},
+    {"capital":"Toronto","zone":"America/Toronto","id":3},
+    {"capital":"Seoul","zone":"Asia/Seoul","id":4},
+    {"capital":"Paris","zone":"Europe/Paris","id":5},
+    {"capital":"Mexico city","zone":"America/Mexico_City","id":6}
+ 
+
+ 
+  
+    
+ ]
